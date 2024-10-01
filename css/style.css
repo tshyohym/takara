@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/back_dungeon.png");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.box {
+	margin: 10px;
+    width: 25%;
+}
+#result-msg {
+	font-size: 24px;
+}
+#result-img {
+    width: 70%;
+}
